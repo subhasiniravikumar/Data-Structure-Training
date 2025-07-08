@@ -13,7 +13,6 @@ class Solution {
     }
 }
 
-
 69.
 public class Solution {
     public int mySqrt(int x) {
